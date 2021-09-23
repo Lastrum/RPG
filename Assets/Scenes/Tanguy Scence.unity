@@ -2076,7 +2076,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   player: {fileID: 1528946699}
   camera: {fileID: 533034321}
-  speed: 2.5
+  speed: 5
   height: 1
   plank: {fileID: 1186648810}
   crown: {fileID: 315439048}
